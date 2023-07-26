@@ -43,7 +43,7 @@ We also looked at healthcare (Medicare) spend on MCC patients. By filtering our 
 ## What factors are most closely associated with depression? (e.g., demographic, geographic)
 
 We observed a difference in disease prevalence based on sex. According to our dataset it appears that depression affects females more, but this could be inaccurate since female respondents outnumbered males by 20%. This issue has been addressed under “Limitations of CDC Data”.
-![Screenshot 2023-07-23 at 9 31 23 AM](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/fbf8b6cf-014a-47cc-9802-842e8a0e685f)
+![Screenshot 2023-07-26 at 9 42 48 AM](https://github.com/M0412/MCCsdata_analytics_Depression/assets/133132845/e7ab5f7f-b185-4697-9bc5-a8d91b0a7138)
 
 We also observed geographic differences in disease prevalence. By filtering our data based on regions, we found that the majority of people with depression were from the South, and the majority of people without depression were also from the South. We can not conclude for sure if depression is more prevalent in the South or if this is the byproduct of how the survey was fielded (e.g., offered to more southerners, higher response rate from southerners, etc.). This has also been addressed under “Limitation of CDC Data”
 ![Fig6](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/6d511d04-5028-46bd-ab5b-fbca5c5f6b15) ![Fig5](https://github.com/ShipraGupta16/UCB_Project_1/assets/133132845/efa69ed3-581c-488f-ad9b-7518ae61ba21)
